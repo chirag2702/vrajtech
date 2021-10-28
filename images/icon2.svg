@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+  <g id="icon2" transform="translate(-4879 -2042)">
+    <g id="Group_35" data-name="Group 35" transform="translate(4694 703)">
+      <rect id="Rectangle_28" data-name="Rectangle 28" width="160" height="160" rx="80" transform="translate(185 1339)" fill="none"/>
+    </g>
+    <g id="study" transform="translate(5927.223 686.037)">
+      <path id="Path_56" data-name="Path 56" d="M-972.78,1409.63a.994.994,0,0,0-.707.33l-5.012,5.582a.994.994,0,0,0,.076,1.4.994.994,0,0,0,1.4-.076l4.325-4.818,8.677,8.339-2.834,1.766a.993.993,0,0,0-.466.849v5.513a.994.994,0,0,0,.994.994.994.994,0,0,0,.994-.994v-4.961l3.443-2.147a.994.994,0,0,0,.463-.74.994.994,0,0,0-.3-.82l-10.334-9.938a.993.993,0,0,0-.722-.276Z" transform="translate(19.534)" fill="#2b4255" fill-rule="evenodd"/>
+      <path id="Path_57" data-name="Path 57" d="M-998.531,1420.63h61.617v3.975h-61.617Z" transform="translate(0 10.864)" fill="#25b39e"/>
+      <path id="Path_58" data-name="Path 58" d="M-996.531,1422.63h5.963l-1.988,27.827h-3.975Zm53.667,0h-5.963l1.988,27.827h3.975Z" transform="translate(1.975 12.84)" fill="#60c5b8"/>
+      <path id="Path_59" data-name="Path 59" d="M-974.531,1422.111a2.975,2.975,0,0,1,2.982-2.981h1.988a2.975,2.975,0,0,1,2.982,2.981" transform="translate(23.704 9.383)" fill="#576d7e"/>
+      <path id="Path_60" data-name="Path 60" d="M9.315,0A4.658,4.658,0,0,1,6.986,4.033a4.657,4.657,0,0,1-4.657,0A4.658,4.658,0,0,1,0,0H9.315Z" transform="translate(-961.403 1412.635) rotate(45)" fill="#f8b84e"/>
+    </g>
+  </g>
+</svg>

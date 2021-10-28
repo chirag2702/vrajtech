@@ -1,0 +1,63 @@
+@media (min-width: 992px) {
+  header .dropdown:hover .dropdown-menu {
+    display: block;
+  }
+  .container {
+    max-width: 1190px;
+  }
+}
+
+@media (min-width: 1350px) {
+  .top-nav {
+    background-image: url(../images/top-nav-right.png);
+    background-color: #0f1852;
+  }
+  .btn_accessibility{
+    left: 20px;
+    right: unset !important;
+    bottom: 20px !important;
+    top: unset !important;
+  }
+}
+@media (max-width: 1350px) {
+  .btn_accessibility{
+    left: 20px;
+    right: unset !important;
+    bottom: 20px !important;
+    top: unset !important;
+  }
+}
+@media (max-width: 991px) {
+  .header-right {
+    display: flex;
+    width: 100%;
+  }
+  .c-container {
+    padding: 0 10px;
+  }
+  .logo img {
+    height: 50px;
+  }
+  .logo {
+    width: 100px;
+    flex: 1;
+  }
+  .navbar-toggler {
+    position: absolute;
+    left: 13px;
+    top: 19px;
+  }
+  .social-mobile {
+    position: absolute;
+    top: 12px;
+    left: 60px;
+  }
+  .about-img {
+    position: relative;
+    bottom: -33px;
+    left: 0;
+  }
+  .contacts-information ul li a, .contacts-information ul li p{
+    font-size: 14px;
+  }
+}

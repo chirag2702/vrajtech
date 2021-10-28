@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+  <g id="icon10" transform="translate(-4205 -2286)">
+    <g id="Group_41" data-name="Group 41" transform="translate(4020 947)">
+      <rect id="Rectangle_28" data-name="Rectangle 28" width="160" height="160" rx="80" transform="translate(185 1339)" fill="none"/>
+    </g>
+    <g id="search-analytics" transform="translate(4255 2340)">
+      <path id="Path_167" data-name="Path 167" d="M56.334,48.092l-8.485-8.486a1,1,0,0,0-1.414,0l-.707.708-3.536-3.536-1.414,1.414,3.536,3.536-.708.707a1,1,0,0,0,0,1.414l8.486,8.485a1,1,0,0,0,1.414,0l2.828-2.828A1,1,0,0,0,56.334,48.092Z" fill="#758ca6"/>
+      <circle id="Ellipse_11" data-name="Ellipse 11" cx="12" cy="12" r="12" transform="translate(21 17)" fill="#c9e6fb"/>
+      <path id="Path_168" data-name="Path 168" d="M33,41.994a13,13,0,1,1,9.192-22.186h0A12.994,12.994,0,0,1,33,41.994ZM33,18a11,11,0,1,0,7.778,3.217A11,11,0,0,0,33,18Z" fill="#7e95b3"/>
+      <path id="Path_169" data-name="Path 169" d="M62,62H3a1,1,0,0,1-1-1V2H4V60H62Z" fill="#618dcc"/>
+      <path id="Path_170" data-name="Path 170" d="M36,33a1,1,0,0,1-.707-.293l-5.279-5.279-4.1,4.265L24.47,30.307l4.809-5A1,1,0,0,1,29.99,25a1.038,1.038,0,0,1,.717.293l5.313,5.313,4.293-4.052,1.374,1.455-5,4.719A1,1,0,0,1,36,33Z" fill="#2a9d8f"/>
+      <rect id="Rectangle_32" data-name="Rectangle 32" width="15.19" height="2" transform="translate(8.276 47.31) rotate(-46.405)" fill="#2a9d8f"/>
+      <path id="Path_171" data-name="Path 171" d="M59,9H53.343v2H56.52L46.308,20.8l1.384,1.443L58,12.352v3.305h2V10A1,1,0,0,0,59,9Z" fill="#2a9d8f"/>
+    </g>
+  </g>
+</svg>
